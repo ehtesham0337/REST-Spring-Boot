@@ -6,3 +6,5 @@ A backend application with a reusuable session and cookie based auth service, di
 - Java 21
 - Spring Boot 3
 - Spring Security 6
+- Spring Data JPA
+- PostgreSQL
